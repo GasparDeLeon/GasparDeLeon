@@ -2,7 +2,7 @@
 
 ## About Me
 - Passionate about backend and .NET development, focused on building maintainable and well-structured applications.
-- Currently studying to become an Analista Programador and applying what I learn through academic and personal projects.
+- Currently studying to become an Programmer Analyst and applying what I learn through academic and personal projects.
 - Working mainly with .NET Framework and SQL Server, and exploring good practices in software design (SOLID, GRASP).
 - Interested in the full development cycle: analysis, database design, implementation and documentation.
 - Always open to collaborating on .NET-based projects and to learning new tools.
