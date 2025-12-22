@@ -57,6 +57,8 @@ More repositories will be added as I clean up and document my work.
 
 ## How to Reach Me
 [![Email](https://img.shields.io/badge/Email-gaspardeleon00%40gmail.com-red?style=for-the-badge)](mailto:gaspardeleon00@gmail.com)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-Gaspar%20De%20León-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/gaspar-de-león-7b1aab375/)
+
 
 ---
 
